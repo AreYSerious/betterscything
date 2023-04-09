@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "modid": "betterscything",
+  "name": "BetterScything",
+  "authors": ["NiclAss"],
+  "description": "Allows flowers and herbs to be harvested with a scythe.",
+  "version": "0.1.0",
+  "requiredOnClient": false,
+  "dependencies": {
+    "game": ""
+  }
+}

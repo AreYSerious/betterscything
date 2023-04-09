@@ -1,0 +1,345 @@
+[
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-small-crimson-brown-green",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-medium-darkgreen-gold-crimson",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-medium-crimson-brown-green",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-small-green-orange",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "fern-deerfern",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-lupine-blue-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-small-crimson-green",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-medium-green-orange",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-lupine-white-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-lupine-orange-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "tallfern",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-thyme",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-medium-crimson-green",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-small-lemongreen",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-lupine-purple-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-orangemallow-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-basil",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-small-crimson-orange",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-medium-lemongreen",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "fern-eaglefern",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-lupine-red-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-wilddaisy-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-chamomile",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-medium-crimson-orange",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-small-lemongreen-crimson",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "fern-hartstongue",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-westerngorse-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-cilantro",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-small-darkgreen-gold",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-medium-lemongreen-crimson",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-catmint-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-cowparsley-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-lavender",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-medium-darkgreen-gold",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "fern-cinnamonfern",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-cornflower-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-goldenpoppy-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-marjoram",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-croton-small-darkgreen-gold-crimson",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-forgetmenot-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-lilyofthevalley-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-mint",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "ferntree-normal-foliage",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-edelweiss-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-woad-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-saffron",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-heather-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "flower-redtopgrass-free",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/attributes/codePrefixes/-",
+    "value": "herb-sage",
+    "file": "game:itemtypes/tool/scythe.json",
+    "side": "Server"
+  }
+]
